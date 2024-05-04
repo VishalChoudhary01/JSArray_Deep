@@ -501,9 +501,11 @@ for(const arrayvalue of arrIterator ){
 }
 ```
 # 38. with()
-## with() do not modify original array
+## with() do not modify original array.
+
 ## with() return new copy /modify array with a single element replace from array.
-## with ( targetIndex , Value)
+
+## with ( targetIndex , Value) .
 ```javascript
 const arr=[10,42,30,40,50,60]
 // with () help to change single item from original array and return a new modified item array
